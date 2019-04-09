@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">FlatPay</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add_data">Add new data</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="prompt_electricity">Электричество</string>
+    <string name="prompt_cold_water">Холодная вода</string>
+    <string name="prompt_hot_water">Горячая вода</string>
+    <string name="action_save_data">Сохранить значения</string>
+    <string name="prompt_date">Дата</string>
+    <string name="menu_rates">Тарифы</string>
+    <string name="elRate">Элестричество (руб/кВт*ч)</string>
+    <string name="cwRate">Холодная вода (руб/м3)</string>
+    <string name="hwRate">Горячая вода (руб/м3)</string>
+    <string name="deleteLastData">Удалить последнее показание</string>
+    <string name="addNewData">Добавить показания</string>
+    <string name="sumPrevPeriodPrompt">Сумма за прошлый период:</string>
+    <string name="PrevSumDefault">0 рублей</string>
+    <string name="SavedRatesKey">SAVED RATES KEY</string>
+    <string name="SavedRatesFile">com.example.vadim.flatpay.SAVED RATES FILE KEY</string>
+    <string name="not_enought_data">Недостаточно данных</string>
+    <string name="rubles">рублей</string>
+    <string name="prompt_day">День</string>
+    <string name="prompt_month">Месяц</string>
+    <string name="prompt_year">Год</string>
+    <string name="generateMessage">Сгенерировать сообщение</string>
+    <string name="sendMessage">Отправить сообщение</string>
+</resources>
